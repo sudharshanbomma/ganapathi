@@ -1,3 +1,6 @@
 kjsahksadh
 lsjfSKF
 DKFJL
+
+
+enable git poll scm
