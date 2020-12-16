@@ -8,6 +8,7 @@ enable git poll scm
 
 
 jkhfdskjfdk
+#<<<<<<< HEAD
 
 skjfhskfjdskj
 kjsgk
@@ -18,3 +19,5 @@ dskfhkfh
 dsjfsdfkds
 dsjfkdsjf
 
+#=======
+#>>>>>>> parent of c0f7af6... Update rama.txt
