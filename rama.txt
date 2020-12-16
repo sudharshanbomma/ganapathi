@@ -4,6 +4,7 @@ DKFJL
 
 
 enable git poll scm
+#<<<<<<< HEAD
 
 
 jkhfdskjfdk
@@ -16,3 +17,5 @@ kjsgk
 dskfhkfh
 dsjfsdfkds
 dsjfkdsjf
+#=======
+#>>>>>>> parent of cbd43b1... Update rama.txt
